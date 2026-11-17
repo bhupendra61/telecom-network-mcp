@@ -1,0 +1,46 @@
+[
+  {
+    "linkId": "MW-1001",
+    "siteA": "KTM-001",
+    "siteB": "KTM-002",
+    "region": "Bagmati",
+    "frequencyGHz": 18,
+    "capacityMbps": 1000,
+    "utilizationPct": 72,
+    "availabilityPct": 99.95,
+    "status": "up"
+  },
+  {
+    "linkId": "MW-1002",
+    "siteA": "KTM-001",
+    "siteB": "PKR-001",
+    "region": "Gandaki",
+    "frequencyGHz": 23,
+    "capacityMbps": 500,
+    "utilizationPct": 91,
+    "availabilityPct": 99.7,
+    "status": "degraded"
+  },
+  {
+    "linkId": "MW-1003",
+    "siteA": "JNK-001",
+    "siteB": "BRT-001",
+    "region": "Madhesh/Koshi",
+    "frequencyGHz": 13,
+    "capacityMbps": 250,
+    "utilizationPct": 44,
+    "availabilityPct": 98.9,
+    "status": "up"
+  },
+  {
+    "linkId": "MW-1004",
+    "siteA": "PKR-001",
+    "siteB": "KTM-002",
+    "region": "Gandaki/Bagmati",
+    "frequencyGHz": 18,
+    "capacityMbps": 750,
+    "utilizationPct": 35,
+    "availabilityPct": 99.99,
+    "status": "up"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "siteId": "KTM-001",
+    "siteName": "Kathmandu Central",
+    "district": "Kathmandu",
+    "region": "Bagmati",
+    "technology": [
+      "4G",
+      "5G"
+    ],
+    "latitude": 27.7172,
+    "longitude": 85.324,
+    "status": "active"
+  },
+  {
+    "siteId": "KTM-002",
+    "siteName": "Lalitpur South",
+    "district": "Lalitpur",
+    "region": "Bagmati",
+    "technology": [
+      "4G"
+    ],
+    "latitude": 27.6588,
+    "longitude": 85.3247,
+    "status": "active"
+  },
+  {
+    "siteId": "PKR-001",
+    "siteName": "Pokhara Main",
+    "district": "Kaski",
+    "region": "Gandaki",
+    "technology": [
+      "4G",
+      "5G"
+    ],
+    "latitude": 28.2096,
+    "longitude": 83.9856,
+    "status": "active"
+  },
+  {
+    "siteId": "JNK-001",
+    "siteName": "Janakpur East",
+    "district": "Dhanusha",
+    "region": "Madhesh",
+    "technology": [
+      "2G",
+      "4G"
+    ],
+    "latitude": 26.7288,
+    "longitude": 85.9263,
+    "status": "maintenance"
+  },
+  {
+    "siteId": "BRT-001",
+    "siteName": "Biratnagar North",
+    "district": "Morang",
+    "region": "Koshi",
+    "technology": [
+      "4G"
+    ],
+    "latitude": 26.4525,
+    "longitude": 87.2718,
+    "status": "active"
+  }
+]

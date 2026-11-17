@@ -1,0 +1,27 @@
+[
+  {
+    "alarmId": "AL-9001",
+    "siteId": "PKR-001",
+    "linkId": "MW-1002",
+    "severity": "major",
+    "description": "Microwave link utilization above 90%",
+    "openedAt": "2026-11-16T08:20:00+05:45",
+    "status": "open"
+  },
+  {
+    "alarmId": "AL-9002",
+    "siteId": "JNK-001",
+    "severity": "minor",
+    "description": "Site under scheduled maintenance",
+    "openedAt": "2026-11-16T06:00:00+05:45",
+    "status": "open"
+  },
+  {
+    "alarmId": "AL-9003",
+    "siteId": "KTM-001",
+    "severity": "warning",
+    "description": "Routine temperature threshold warning",
+    "openedAt": "2026-11-15T14:10:00+05:45",
+    "status": "cleared"
+  }
+]

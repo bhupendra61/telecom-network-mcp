@@ -1,0 +1,42 @@
+[
+  {
+    "complaintId": "CP-3001",
+    "siteId": "KTM-001",
+    "category": "slow data",
+    "description": "Low evening data throughput reported",
+    "openedAt": "2026-11-16T17:30:00+05:45",
+    "status": "open"
+  },
+  {
+    "complaintId": "CP-3002",
+    "siteId": "KTM-001",
+    "category": "coverage",
+    "description": "Intermittent indoor coverage",
+    "openedAt": "2026-11-15T11:15:00+05:45",
+    "status": "open"
+  },
+  {
+    "complaintId": "CP-3003",
+    "siteId": "KTM-001",
+    "category": "voice quality",
+    "description": "Call quality issue reported",
+    "openedAt": "2026-11-14T09:00:00+05:45",
+    "status": "resolved"
+  },
+  {
+    "complaintId": "CP-3004",
+    "siteId": "PKR-001",
+    "category": "slow data",
+    "description": "Reduced throughput near the site",
+    "openedAt": "2026-11-16T13:40:00+05:45",
+    "status": "open"
+  },
+  {
+    "complaintId": "CP-3005",
+    "siteId": "JNK-001",
+    "category": "coverage",
+    "description": "Coverage interruption during maintenance",
+    "openedAt": "2026-11-16T07:10:00+05:45",
+    "status": "open"
+  }
+]

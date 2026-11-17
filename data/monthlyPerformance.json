@@ -1,0 +1,34 @@
+[
+  {
+    "month": "2026-09",
+    "region": "Bagmati",
+    "trafficMbps": 1120,
+    "throughputMbps": 1040,
+    "utilizationPct": 67,
+    "availabilityPct": 99.94
+  },
+  {
+    "month": "2026-09",
+    "region": "Gandaki",
+    "trafficMbps": 760,
+    "throughputMbps": 710,
+    "utilizationPct": 63,
+    "availabilityPct": 99.82
+  },
+  {
+    "month": "2026-10",
+    "region": "Bagmati",
+    "trafficMbps": 1260,
+    "throughputMbps": 1150,
+    "utilizationPct": 74,
+    "availabilityPct": 99.91
+  },
+  {
+    "month": "2026-10",
+    "region": "Gandaki",
+    "trafficMbps": 830,
+    "throughputMbps": 760,
+    "utilizationPct": 69,
+    "availabilityPct": 99.7
+  }
+]
